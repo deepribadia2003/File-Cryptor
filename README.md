@@ -22,8 +22,7 @@ File Cryptor is a Python application built using Tkinter for GUI and cryptograph
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/file-cryptor.git
-   cd file-cryptor
+   git clone https://github.com/deepribadia2003/File-Cryptor.git
 
 2. Install dependencies:
    ```bash
